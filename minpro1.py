@@ -9,7 +9,7 @@ print("1. Create data pengiriman")
 print("2. Read / tampilkan data")
 print("3. Update data")
 print("4. Delete list (pilih 1/2)")
-print("5. Keluar")
+
 
 pilihan = input("Masukkan nomor pilihan (1-5): ")
 
@@ -93,9 +93,3 @@ elif pilihan == "4":
     else:
         print("List tidak ditemukan")
 
-# ==================== KELUAR ====================
-elif pilihan == "5":
-    print("Program selesai.")
-
-else:
-    print("Pilihan tidak dikenal. Program selesai.")
