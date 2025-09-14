@@ -1,0 +1,2 @@
+# Minpro-1-DDP-2025
+Nama: AULIA AISYAH AL HUMAIRA NIM: 2509116029 Sistem InformasiA'25
